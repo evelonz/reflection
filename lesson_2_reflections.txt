@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+    A new git repository is created.
+    To start tracking changes in it, for a new project for exampel.
+
