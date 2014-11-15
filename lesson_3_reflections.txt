@@ -32,7 +32,10 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Using my own server to host the repository.
+    It would be harder though since I would not have the graphical interface for free.
+    Not sure if git in it self has merge request abilities?
+    It would be harder to have multiple people find, share and work on it.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
